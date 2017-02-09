@@ -9,3 +9,18 @@ input {
     height: 40px;
     font-size: 18px;
 }
+
+p {
+    font-size: 18px;
+    color: purple;
+}
+
+body {
+    text-align: center;
+}
+
+#show {
+    font-size: 30px;
+    color: green;
+}
+
