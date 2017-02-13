@@ -19,8 +19,9 @@ body {
     text-align: center;
 }
 
-#show {
+#after {
     font-size: 30px;
-    color: green;
+    font-family:green;
+    
 }
 
